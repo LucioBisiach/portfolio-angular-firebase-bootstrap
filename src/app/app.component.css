@@ -1,0 +1,85 @@
+.titulo {
+    padding: 20px;
+}
+
+.contacto {
+    float: right;
+    padding: 10px;
+    color: black;
+    font-size: 25px;
+}
+
+.logo {
+    width: 100%;
+    padding-top: 30vh;
+    margin: 0px;
+}
+
+.logo-proyect {
+    height: 100px;
+    width: 100px;
+    margin-right: 30px;
+}
+
+.logo3-proyect {
+    height: 125px;
+    width: 100px;
+    margin-right: 30px;
+}
+
+.acercade-texto {
+    font-size: 30px;
+}
+
+.espacio {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.justificar {
+    text-align: left;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.titulitos {
+    text-decoration: underline black;
+    font-size: 50px;
+    float: left;
+    margin-left: 0px;
+}
+
+.textitos {
+    float: left;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.contenido {
+    font-size: 30px;
+}
+
+.contenido2 {
+    font-size: 20px;
+}
+
+.space-icons {
+    font-size: 80px;
+    float: left;
+}
+
+body {
+    font-family: 'Economica', sans-serif;
+}
+
+nav ul h4 {
+    letter-spacing: 1px;
+}
+
+nav ul h2 {
+    letter-spacing: 1px;
+}
